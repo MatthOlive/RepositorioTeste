@@ -1,5 +1,8 @@
 https://github.com/MatthOlive/RepositorioTeste
 public class FileA {
-	int nome;	
+	int nome;
+	public void open(){
+
+	}
 }
 
