@@ -7,8 +7,9 @@ public class FileB{
 	}
 
 	public void methodY(){
-
+		fileA.open():
 	}
+
 
 }
 

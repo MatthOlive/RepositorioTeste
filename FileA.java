@@ -1,9 +1,12 @@
 https://github.com/MatthOlive/RepositorioTeste
 public class FileA {
 	int nome;
-	int patch;
+	int path;
 
 	public void close(){
+
+	}
+	public void open(){
 
 	}
 }
